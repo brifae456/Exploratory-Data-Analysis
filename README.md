@@ -43,4 +43,4 @@ There are five tables in the dataset, and you’ll need to use all of them to do
 Your project will consist of three stages:
  1) Open the data files 
  2) Preprocess the data
- 3) Perfroma analysis on the data
+ 3) Perform analysis on the data
